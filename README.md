@@ -1,2 +1,3 @@
 # IP-RMT-53-Client
-Individual Project RMT-53 Client Side
+AniTrackr
+A Website to track your favorite anime
