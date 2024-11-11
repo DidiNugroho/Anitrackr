@@ -6,4 +6,4 @@ Deployed with firebase
 https://anitrackr-b40d6.web.app/
 
 # Homepage
-![Project Screenshot](https://imgur.com/a/Zh1GTLN)
+![Project Screenshot](https://imgur.com/3UG2tv9)
