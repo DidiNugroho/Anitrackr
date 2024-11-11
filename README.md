@@ -1,4 +1,4 @@
-# IP-RMT-53-Client
+# Anitrackr-Client
 AniTrackr
 A Website to track your favorite anime
 
