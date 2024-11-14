@@ -5,6 +5,8 @@ A Website to track your favorite anime
 Deployed with firebase
 https://anitrackr-b40d6.web.app/
 
+Unsolved Bug: Multiple Unique ID from jikan.moe anime list preventing the search of certain anime
+
 # Homepage
 ![Project Screenshot](https://i.imgur.com/3UG2tv9.png)
 
